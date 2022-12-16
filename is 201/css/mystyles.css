@@ -1,0 +1,54 @@
+.guitarheader{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bolder;
+    font-size: 60px;
+    text-align: center;
+}
+
+.paragraph{
+    color:black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.listtitle{
+    font-size: 30px;
+    font-weight: bold;
+    color: light gray;
+    margin-left: 100px;
+}
+.list{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+   
+}
+
+.background{
+    background-color: beige;
+}
+
+.linkback{
+    color: black;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.gameplayimg{
+   width: 550px;
+   height: auto;
+    padding-left: 80px;
+    padding-right: 80px;
+    float: right;
+}
